@@ -40,10 +40,10 @@ The system demonstrates how Artificial Intelligence can be used to support **sma
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Home.png)
+![Home Page](Screenshots/Home.png)
 
 ### 📊 Detection Results
-![Results Page](screenshots/Result.png)
+![Results Page](Screenshots/Result.png)
 
 ##  UI Design
 
