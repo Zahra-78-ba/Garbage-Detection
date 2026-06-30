@@ -17,7 +17,6 @@ The system demonstrates how Artificial Intelligence can be used to support **sma
 * 🎨 Modern dark-themed UI with custom styling
 * 🌍 Environment-friendly awareness interface
 
-
 ##  How It Works
 
 1. User uploads an image
@@ -31,8 +30,6 @@ The system demonstrates how Artificial Intelligence can be used to support **sma
    * Confidence scores
    * Summary statistics
 
----
-
 ## 📊 Output Includes
 
 * Detected garbage objects
@@ -40,8 +37,13 @@ The system demonstrates how Artificial Intelligence can be used to support **sma
 * Number of categories
 * Average confidence score
 * Visual bounding box results
+## 📸 Screenshots
 
----
+### 🏠 Home Page
+![Home Page](screenshots/Home.png)
+
+### 📊 Detection Results
+![Results Page](screenshots/Result.png)
 
 ##  UI Design
 
@@ -53,9 +55,7 @@ The interface is designed with a **modern futuristic theme**:
 * Hero section with motivational message
 * Interactive upload and results panels
 
-
-
-## 👩‍💻 Author
+##  Author
 
 **Zahra Batool**
 
