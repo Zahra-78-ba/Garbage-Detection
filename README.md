@@ -59,6 +59,3 @@ The interface is designed with a **modern futuristic theme**:
 
 **Zahra Batool**
 
-
-
-Bas bolo 👍
